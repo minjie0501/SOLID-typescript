@@ -1,0 +1,22 @@
+{
+  "name": "solid-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minjie0501/SOLID-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minjie0501/SOLID-typescript/issues"
+  },
+  "homepage": "https://github.com/minjie0501/SOLID-typescript#readme",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
